@@ -1,6 +1,6 @@
 # escrow-scripts
 
-scripts that can be used to interact with an [escrow-program](https://github.com/paul-schaaf/solana-escrow)
+scripts that can be used to interact with an [escrow-program](https://github.com/MirzaMuhammadBaig/solana_escrow_program/tree/main/program)
 
 
 ## Commands
